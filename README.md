@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **C#,.NET,MVC,ASP.NET**
 
-- 📫 How to reach me **suryawanshivaji@gmail.com**
+- 📫 How to reach me **suryavanshivaji@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
